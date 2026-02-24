@@ -19,4 +19,6 @@ Each .pt file contains:
     - snr_acc      : per-SNR accuracy dict at best epoch
 
 Note: .pt files are excluded from git tracking by .gitignore due to their size.
-Upload to Zenodo or HuggingFace Hub and link here when publishing.
+All 35 model checkpoints (7 configs × 5 seeds) are available for download:
+
+📦 **[Download Saved Models (Google Drive)](https://drive.google.com/drive/folders/1QkO8FwqrmN--MbtABxjb3MD0byzxk2T8)**
